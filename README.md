@@ -2,7 +2,7 @@
 
 TO-DO-LIST (Made using HTML5 CSS3 and JavaScript)
 
-You can Find this code Live at : https://github.com/Worst-Devoloper/TodoList
+You can Find this code Live at :https://worst-devoloper.github.io/TodoList/
 
 ABOUT THIS PROJECT-:
 
